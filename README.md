@@ -1,7 +1,7 @@
 # YouTube Comment Video Classifier — NLP Project
 
 **Student ID:** 22CDS0446  
-**Course:** Natural Language Processing (NLP)  
+**Course:** Artificial Intelligence (NLP)  
 **Dataset:** YouTube Comments (scraped from 11 videos across multiple channels)
 
 ---
