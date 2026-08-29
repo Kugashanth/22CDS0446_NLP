@@ -212,10 +212,4 @@ The full project report is available as:
 
 ---
 
-## Author
 
-| Field | Detail |
-|---|---|
-| Student ID | 22CDS0446 |
-| Course | Natural Language Processing |
-| Institution | VIT University |
